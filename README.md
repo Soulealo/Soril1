@@ -78,4 +78,4 @@ mysqlScript.sql файл нь дараах хэсгүүдээс бүрдэнэ:
 
 
 
-*
+*https://github.com/Soulealo/Soril1.git
